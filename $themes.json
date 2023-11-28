@@ -3,8 +3,7 @@
     "id": "d1292d7236efc0ef732163d622b44ac143fcf4a1",
     "name": "Light",
     "selectedTokenSets": {
-      "Light": "enabled",
-      "base": "disabled"
+      "Light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:1878:136673",
@@ -26,14 +25,8 @@
       "Labels.Secondary": "9ef5ef6a7331d64dbef967d8d84e793bc8234e6c",
       "Labels.Tertiary": "188d96a3405ec13589aa376ef110ac970e954b73",
       "Labels.Quaternary": "a0edd3af6a768c091dc4fae10f9f69b8bb34a5bb",
-      "Labels.Primary - Dark": "9b4b42cc9d0e40d45a78e7995e2a3503c25006d0",
-      "Labels.Secondary - Dark": "93c65a81f2fe8b59d86c8ad1527168433207141d",
-      "Labels.Tertiary - Dark": "5516f36e82d1931660d18417f52e92a0d3097c97",
-      "Labels.Quaternary - Dark": "3fe1bba6477adeb8f5ef0b12c3b2529bdd042326",
       "Labels.Vibrant Primary": "400759c42bd63c3a34517b6d9e153f34b0e03206",
-      "Labels.Vibrant Primary - Dark": "e7d9c3bc29ceca77670297eb2e701595e8620db2",
       "Grays.Gray": "ac59239d1ea81191a24ac31417c5d55324a24301",
-      "Grays.Gray - Dark": "b532e4d44869c3187aef5ae13992a0ba0b5e3474",
       "Grays.Gray 2": "d2d74427598dfae39084b02958ee6d86fbefa282",
       "Grays.Gray 2 - Dark": "29de0ce513c732591a6598d090246030d0064cd0",
       "Grays.Gray 3": "966fe23dcdb6a8e896d387b5a211a28b1f8763be",
@@ -95,9 +88,7 @@
     "id": "c05c088265668206cb0333ac6fe480ae1433ebe5",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "base": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "core"
   }
 ]

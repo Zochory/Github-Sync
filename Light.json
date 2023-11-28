@@ -66,37 +66,13 @@
       "value": "#3c3c432e",
       "type": "color"
     },
-    "Primary - Dark": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "Secondary - Dark": {
-      "value": "#ebebf599",
-      "type": "color"
-    },
-    "Tertiary - Dark": {
-      "value": "#ebebf54d",
-      "type": "color"
-    },
-    "Quaternary - Dark": {
-      "value": "#ebebf529",
-      "type": "color"
-    },
     "Vibrant Primary": {
       "value": "#000000",
-      "type": "color"
-    },
-    "Vibrant Primary - Dark": {
-      "value": "#ffffff",
       "type": "color"
     }
   },
   "Grays": {
     "Gray": {
-      "value": "#8e8e93",
-      "type": "color"
-    },
-    "Gray - Dark": {
       "value": "#8e8e93",
       "type": "color"
     },
