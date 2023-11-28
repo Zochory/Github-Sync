@@ -4,48 +4,96 @@
       "value": "#ff3b30",
       "type": "color"
     },
+    "Red - Dark": {
+      "value": "#ff453a",
+      "type": "color"
+    },
     "Orange": {
       "value": "#ff9500",
+      "type": "color"
+    },
+    "Orange - Dark": {
+      "value": "#ff9f0a",
       "type": "color"
     },
     "Yellow": {
       "value": "#ffcc00",
       "type": "color"
     },
+    "Yellow - Dark": {
+      "value": "#ffd60a",
+      "type": "color"
+    },
     "Green": {
       "value": "#34c759",
+      "type": "color"
+    },
+    "Green - Dark": {
+      "value": "#30d158",
       "type": "color"
     },
     "Mint": {
       "value": "#00c7be",
       "type": "color"
     },
+    "Mint - Dark": {
+      "value": "#63e6e2",
+      "type": "color"
+    },
     "Teal": {
       "value": "#30b0c7",
+      "type": "color"
+    },
+    "Teal - Dark": {
+      "value": "#40cbe0",
       "type": "color"
     },
     "Cyan": {
       "value": "#32ade6",
       "type": "color"
     },
+    "Cyan - Dark": {
+      "value": "#64d2ff",
+      "type": "color"
+    },
     "Blue": {
       "value": "#007aff",
+      "type": "color"
+    },
+    "Blue - Dark": {
+      "value": "#0a84ff",
       "type": "color"
     },
     "Indigo": {
       "value": "#5856d6",
       "type": "color"
     },
+    "Indigo - Dark": {
+      "value": "#5e5ce6",
+      "type": "color"
+    },
     "Purple": {
       "value": "#af52de",
+      "type": "color"
+    },
+    "Purple - Dark": {
+      "value": "#bf5af2",
       "type": "color"
     },
     "Pink": {
       "value": "#ff2d55",
       "type": "color"
     },
+    "Pink - Dark": {
+      "value": "#ff375f",
+      "type": "color"
+    },
     "Brown": {
       "value": "#a2845e",
+      "type": "color"
+    },
+    "Brown - Dark": {
+      "value": "#ac8e68",
       "type": "color"
     }
   },

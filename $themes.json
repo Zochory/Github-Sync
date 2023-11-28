@@ -3,36 +3,25 @@
     "id": "d1292d7236efc0ef732163d622b44ac143fcf4a1",
     "name": "Light",
     "selectedTokenSets": {
-      "Light": "enabled"
+      "Light": "enabled",
+      "base": "disabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:1878:136673",
     "$figmaModeId": "1878:0",
     "$figmaVariableReferences": {
       "Colors.Red": "f7281fe1bd7d0a927f8a8862472074c09fd28bb9",
-      "Colors.Red - Dark": "fd7c53d3640893509e057ed9b856c65ea9eefdb3",
-      "Colors.Orange": "0aa3901a46f004ff7e224399e99a58c5ed358603",
-      "Colors.Orange - Dark": "53cb98f14ac8b3e87530fb886319fbd29bce227c",
+      "Colors.Orange": "53cb98f14ac8b3e87530fb886319fbd29bce227c",
       "Colors.Yellow": "edc0a4098dec02250a1affeab19ac4a31aef4925",
-      "Colors.Yellow - Dark": "26d83f7b8a09768a0b5277cd27c33b54cec121ee",
       "Colors.Green": "e1a61c85eda41ae100a1cfbff474fe0f970fbf24",
-      "Colors.Green - Dark": "319ea4b09453fca1042a17183fd9fe350d14529b",
       "Colors.Mint": "dffdc71f8ae4550c67bf1ebdd48ec3f10088c82e",
-      "Colors.Mint - Dark": "d1247767a3fb27257115008e3b2e5958f07d0b0e",
       "Colors.Teal": "14c31246fd5221c0564808f129fddc4dda1577f2",
-      "Colors.Teal - Dark": "2e351085c01a7ba646953b3b35b60a2cb945cc98",
       "Colors.Cyan": "f39c289bda518f6145ebbce45013af5f332c621e",
-      "Colors.Cyan - Dark": "b09cd271f2a1c9d266fc73ea63c7a4500ea0a677",
       "Colors.Blue": "a6fac51bcb6cb57228d60710dd14119e039ec2a1",
-      "Colors.Blue - Dark": "7962d116f16e892b9c522b2cc1150a442d9e0225",
       "Colors.Indigo": "ae2dc37759cb52d8cc88fb0b9828e3353a6c95dd",
-      "Colors.Indigo - Dark": "a27d2c4836267bcee747f3816930e869aada22c5",
       "Colors.Purple": "95cb58427d5f043966e7f6715916f356a0289f5c",
-      "Colors.Purple - Dark": "9dd03d420415e02e687cd68f329227c8a9ff98bd",
       "Colors.Pink": "20ce45f036e2812932822b107063deed8bbc2a45",
-      "Colors.Pink - Dark": "de663a63b3d83441c791ddbbc76621d45e811f6e",
       "Colors.Brown": "7ade904cedb94dcafd58a38a9a4c7484406ccf3f",
-      "Colors.Brown - Dark": "55a50cb466c958c317bbe214c464e913f0758397",
       "Labels.Primary": "abc5afc2a727bf7a65ce651145c13ad0a800db21",
       "Labels.Secondary": "9ef5ef6a7331d64dbef967d8d84e793bc8234e6c",
       "Labels.Tertiary": "188d96a3405ec13589aa376ef110ac970e954b73",
@@ -106,7 +95,9 @@
     "id": "c05c088265668206cb0333ac6fe480ae1433ebe5",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "base": "disabled"
+    },
     "group": "core"
   }
 ]
