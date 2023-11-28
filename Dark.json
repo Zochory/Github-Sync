@@ -1,0 +1,226 @@
+{
+  "Colors": {
+    "Red - Dark": {
+      "value": "#ff453a",
+      "type": "color"
+    },
+    "Orange - Dark": {
+      "value": "#ff9f0a",
+      "type": "color"
+    },
+    "Yellow": {
+      "value": "#ffcc00",
+      "type": "color"
+    },
+    "Yellow - Dark": {
+      "value": "#ffd60a",
+      "type": "color"
+    },
+    "Green": {
+      "value": "#34c759",
+      "type": "color"
+    },
+    "Green - Dark": {
+      "value": "#30d158",
+      "type": "color"
+    },
+    "Mint": {
+      "value": "#00c7be",
+      "type": "color"
+    },
+    "Mint - Dark": {
+      "value": "#63e6e2",
+      "type": "color"
+    },
+    "Teal": {
+      "value": "#30b0c7",
+      "type": "color"
+    },
+    "Teal - Dark": {
+      "value": "#40cbe0",
+      "type": "color"
+    },
+    "Cyan": {
+      "value": "#32ade6",
+      "type": "color"
+    },
+    "Cyan - Dark": {
+      "value": "#64d2ff",
+      "type": "color"
+    },
+    "Blue": {
+      "value": "#007aff",
+      "type": "color"
+    },
+    "Blue - Dark": {
+      "value": "#0a84ff",
+      "type": "color"
+    },
+    "Indigo": {
+      "value": "#5856d6",
+      "type": "color"
+    },
+    "Indigo - Dark": {
+      "value": "#5e5ce6",
+      "type": "color"
+    },
+    "Purple": {
+      "value": "#af52de",
+      "type": "color"
+    },
+    "Purple - Dark": {
+      "value": "#bf5af2",
+      "type": "color"
+    },
+    "Pink": {
+      "value": "#ff2d55",
+      "type": "color"
+    },
+    "Pink - Dark": {
+      "value": "#ff375f",
+      "type": "color"
+    },
+    "Brown": {
+      "value": "#a2845e",
+      "type": "color"
+    },
+    "Brown - Dark": {
+      "value": "#ac8e68",
+      "type": "color"
+    }
+  },
+  "Labels": {
+    "Primary": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "#3c3c4399",
+      "type": "color"
+    },
+    "Tertiary": {
+      "value": "#3c3c434d",
+      "type": "color"
+    },
+    "Quaternary": {
+      "value": "#3c3c432e",
+      "type": "color"
+    },
+    "Primary - Dark": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Secondary - Dark": {
+      "value": "#ebebf599",
+      "type": "color"
+    },
+    "Tertiary - Dark": {
+      "value": "#ebebf54d",
+      "type": "color"
+    },
+    "Quaternary - Dark": {
+      "value": "#ebebf529",
+      "type": "color"
+    },
+    "Vibrant Primary": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Vibrant Primary - Dark": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "Grays": {
+    "Gray": {
+      "value": "#8e8e93",
+      "type": "color"
+    },
+    "Gray - Dark": {
+      "value": "#8e8e93",
+      "type": "color"
+    },
+    "Gray 2": {
+      "value": "#aeaeb2",
+      "type": "color"
+    },
+    "Gray 2 - Dark": {
+      "value": "#636366",
+      "type": "color"
+    },
+    "Gray 3": {
+      "value": "#c7c7cc",
+      "type": "color"
+    },
+    "Gray 3 - Dark": {
+      "value": "#48484a",
+      "type": "color"
+    },
+    "Gray 4": {
+      "value": "#d1d1d6",
+      "type": "color"
+    },
+    "Gray 4 - Dark": {
+      "value": "#3a3a3c",
+      "type": "color"
+    },
+    "Gray 5": {
+      "value": "#e5e5ea",
+      "type": "color"
+    },
+    "Gray 5 - Dark": {
+      "value": "#2c2c2e",
+      "type": "color"
+    },
+    "Gray 6": {
+      "value": "#f2f2f7",
+      "type": "color"
+    },
+    "Gray 6 - Dark": {
+      "value": "#1c1c1e",
+      "type": "color"
+    },
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Black - Dark": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "White": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "White - Dark": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "BG": {
+    "Primary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "#f2f2f7",
+      "type": "color"
+    },
+    "Tertiary": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Primary - Dark Elevated": {
+      "value": "#1c1c1e",
+      "type": "color"
+    },
+    "Secondary - Dark Elevated": {
+      "value": "#2c2c2e",
+      "type": "color"
+    },
+    "Tertiary - Dark Elevated": {
+      "value": "#3a3a3c",
+      "type": "color"
+    }
+  }
+}
