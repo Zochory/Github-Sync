@@ -2190,5 +2190,87 @@
         }
       }
     }
+  },
+  "Fills-copy": {
+    "Primary": {
+      "value": "#78788033",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "#78788029",
+      "type": "color"
+    },
+    "Tertiary": {
+      "value": "#7676801f",
+      "type": "color"
+    },
+    "Quaternary": {
+      "value": "#74748014",
+      "type": "color"
+    },
+    "Primary - Dark": {
+      "value": "#7878805c",
+      "type": "color"
+    },
+    "Secondary - Dark": {
+      "value": "#78788052",
+      "type": "color"
+    },
+    "Tertiary - Dark": {
+      "value": "#7676803d",
+      "type": "color"
+    },
+    "Quaternary - Dark": {
+      "value": "#7474802e",
+      "type": "color"
+    }
+  },
+  "Separators-copy": {
+    "Opaque": {
+      "value": "#c6c6c8",
+      "type": "color"
+    },
+    "Non-opaque": {
+      "value": "#3c3c435c",
+      "type": "color"
+    },
+    "Opaque - Dark": {
+      "value": "#38383a",
+      "type": "color"
+    },
+    "Non-opaque - Dark": {
+      "value": "#545458a6",
+      "type": "color"
+    }
+  },
+  "Gradient-copy": {
+    "Blue": {
+      "value": "linear-gradient(180deg, #5ec6f5 0%, #007aff 100%)",
+      "type": "color"
+    },
+    "Green": {
+      "value": "linear-gradient(180deg, #00d1b2 0%, #01caa6 100%)",
+      "type": "color"
+    },
+    "Qream": {
+      "value": "linear-gradient(180deg, #ff8d72 0%, #ff7b5c 100%)",
+      "type": "color"
+    },
+    "Orange": {
+      "value": "linear-gradient(180deg, #f7af5d 0%, #f6a144 100%)",
+      "type": "color"
+    },
+    "Cyan": {
+      "value": "linear-gradient(180deg, #00cde0 0%, #03c7dd 100%)",
+      "type": "color"
+    },
+    "Red": {
+      "value": "linear-gradient(180deg, #f56e74 0%, #f2595e 100%)",
+      "type": "color"
+    },
+    "Yellow": {
+      "value": "linear-gradient(180deg, #eec706 0%, #ecc000 100%)",
+      "type": "color"
+    }
   }
 }

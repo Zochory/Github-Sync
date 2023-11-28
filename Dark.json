@@ -1,111 +1,127 @@
 {
   "Colors": {
+    "Red": {
+      "value": "#ff453a",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {}
+      }
+    },
     "Orange": {
       "value": "#ff9f0a",
       "type": "color"
     },
-    "Yellow - Dark": {
+    "Yellow": {
       "value": "#ffd60a",
       "type": "color"
     },
-    "Green - Dark": {
+    "Green": {
       "value": "#30d158",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {}
+      }
     },
-    "Red - Dark": {
-      "value": "#ff453a",
-      "type": "color"
-    },
-    "Mint - Dark": {
+    "Mint": {
       "value": "#63e6e2",
       "type": "color"
     },
-    "Teal - Dark": {
+    "Teal": {
       "value": "#40cbe0",
       "type": "color"
     },
-    "Cyan - Dark": {
+    "Cyan": {
       "value": "#64d2ff",
       "type": "color"
     },
-    "Blue - Dark": {
+    "Blue": {
       "value": "#0a84ff",
       "type": "color"
     },
-    "Indigo - Dark": {
+    "Indigo": {
       "value": "#5e5ce6",
       "type": "color"
     },
-    "Purple - Dark": {
+    "Purple": {
       "value": "#bf5af2",
       "type": "color"
     },
-    "Pink - Dark": {
+    "Pink": {
       "value": "#ff375f",
       "type": "color"
     },
-    "Brown - Dark": {
+    "Brown": {
       "value": "#ac8e68",
       "type": "color"
     }
   },
   "Labels": {
-    "Primary - Dark": {
+    "Primary": {
       "value": "#ffffff",
       "type": "color"
     },
-    "Secondary - Dark": {
+    "Secondary": {
       "value": "#ebebf599",
       "type": "color"
     },
-    "Tertiary - Dark": {
+    "Tertiary": {
       "value": "#ebebf54d",
       "type": "color"
     },
-    "Quaternary - Dark": {
+    "Quaternary": {
       "value": "#ebebf529",
       "type": "color"
     },
     "Vibrant Primary": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "Vibrant Primary - Dark": {
       "value": "#ffffff",
       "type": "color"
     }
   },
   "Grays": {
-    "Gray - Dark": {
+    "Gray": {
       "value": "#8e8e93",
       "type": "color"
     },
-    "Gray 3 - Dark": {
+    "Gray 3": {
       "value": "#48484a",
       "type": "color"
     },
-    "Gray 4 - Dark": {
+    "Gray 4": {
       "value": "#3a3a3c",
       "type": "color"
     },
-    "Gray 5 - Dark": {
+    "Gray 5": {
       "value": "#2c2c2e",
       "type": "color"
     },
-    "Gray 6 - Dark": {
+    "Gray 6": {
       "value": "#1c1c1e",
       "type": "color"
     },
-    "Black - Dark": {
+    "Black": {
       "value": "#000000",
       "type": "color"
     },
-    "White - Dark": {
+    "White": {
       "value": "#ffffff",
       "type": "color"
     }
   },
   "BG": {
+    "Primary - Elevated": {
+      "value": "#1c1c1e",
+      "type": "color"
+    },
+    "Secondary - Elevated": {
+      "value": "#2c2c2e",
+      "type": "color"
+    },
+    "Tertiary - Elevated": {
+      "value": "#3a3a3c",
+      "type": "color"
+    }
+  },
+  "BG Grouped": {
     "Primary - Dark Elevated": {
       "value": "#1c1c1e",
       "type": "color"
@@ -116,6 +132,76 @@
     },
     "Tertiary - Dark Elevated": {
       "value": "#3a3a3c",
+      "type": "color"
+    },
+    "Primary - Dark Base": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Secondary - Dark Base": {
+      "value": "#1c1c1e",
+      "type": "color"
+    },
+    "Tertiary - Dark Base": {
+      "value": "#2c2c2e",
+      "type": "color"
+    }
+  },
+  "Fills": {
+    "Primary - Dark": {
+      "value": "#7878805c",
+      "type": "color"
+    },
+    "Secondary - Dark": {
+      "value": "#78788052",
+      "type": "color"
+    },
+    "Tertiary - Dark": {
+      "value": "#7676803d",
+      "type": "color"
+    },
+    "Quaternary - Dark": {
+      "value": "#7474802e",
+      "type": "color"
+    }
+  },
+  "Separators-copy": {
+    "Opaque": {
+      "value": "#38383a",
+      "type": "color"
+    },
+    "Non-opaque - Dark": {
+      "value": "#545458a6",
+      "type": "color"
+    }
+  },
+  "Gradient-copy": {
+    "Blue": {
+      "value": "linear-gradient(180deg, #5ec6f5 0%, #007aff 100%)",
+      "type": "color"
+    },
+    "Green": {
+      "value": "linear-gradient(180deg, #00d1b2 0%, #01caa6 100%)",
+      "type": "color"
+    },
+    "Qream": {
+      "value": "linear-gradient(180deg, #ff8d72 0%, #ff7b5c 100%)",
+      "type": "color"
+    },
+    "Orange": {
+      "value": "linear-gradient(180deg, #f7af5d 0%, #f6a144 100%)",
+      "type": "color"
+    },
+    "Cyan": {
+      "value": "linear-gradient(180deg, #00cde0 0%, #03c7dd 100%)",
+      "type": "color"
+    },
+    "Red": {
+      "value": "linear-gradient(180deg, #f56e74 0%, #f2595e 100%)",
+      "type": "color"
+    },
+    "Yellow": {
+      "value": "linear-gradient(180deg, #eec706 0%, #ecc000 100%)",
       "type": "color"
     }
   }
