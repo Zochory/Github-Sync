@@ -3,8 +3,7 @@
     "id": "d1292d7236efc0ef732163d622b44ac143fcf4a1",
     "name": "Light",
     "selectedTokenSets": {
-      "Light": "enabled",
-      "Dark": "disabled"
+      "Light": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:1878:136673",
@@ -107,10 +106,7 @@
     "id": "c05c088265668206cb0333ac6fe480ae1433ebe5",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Light": "disabled",
-      "Dark": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "core"
   }
 ]
