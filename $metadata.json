@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
     "Light",
-    "Dark"
+    "Dark",
+    "Colors",
+    "Primitive",
+    "base"
   ]
 }
