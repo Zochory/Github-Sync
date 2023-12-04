@@ -80,55 +80,27 @@
       "value": "#aeaeb2",
       "type": "color"
     },
-    "Gray 2 - Dark": {
-      "value": "#636366",
-      "type": "color"
-    },
     "Gray 3": {
       "value": "#c7c7cc",
-      "type": "color"
-    },
-    "Gray 3 - Dark": {
-      "value": "#48484a",
       "type": "color"
     },
     "Gray 4": {
       "value": "#d1d1d6",
       "type": "color"
     },
-    "Gray 4 - Dark": {
-      "value": "#3a3a3c",
-      "type": "color"
-    },
     "Gray 5": {
       "value": "#e5e5ea",
-      "type": "color"
-    },
-    "Gray 5 - Dark": {
-      "value": "#2c2c2e",
       "type": "color"
     },
     "Gray 6": {
       "value": "#f2f2f7",
       "type": "color"
     },
-    "Gray 6 - Dark": {
-      "value": "#1c1c1e",
-      "type": "color"
-    },
     "Black": {
       "value": "#000000",
       "type": "color"
     },
-    "Black - Dark": {
-      "value": "#000000",
-      "type": "color"
-    },
     "White": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "White - Dark": {
       "value": "#ffffff",
       "type": "color"
     }
@@ -145,128 +117,52 @@
     "Tertiary": {
       "value": "#ffffff",
       "type": "color"
-    },
-    "Primary - Dark Elevated": {
-      "value": "#1c1c1e",
-      "type": "color"
-    },
-    "Secondary - Dark Elevated": {
-      "value": "#2c2c2e",
-      "type": "color"
-    },
-    "Tertiary - Dark Elevated": {
-      "value": "#3a3a3c",
-      "type": "color"
-    },
-    "Primary - Dark Base": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "Secondary - Dark Base": {
-      "value": "#1c1c1e",
-      "type": "color"
-    },
-    "Tertiary - Dark Base": {
-      "value": "#2c2c2e",
-      "type": "color"
     }
   },
   "BG Grouped": {
     "Primary": {
-      "value": "#f2f2f7",
-      "type": "color"
-    },
-    "Secondary": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "Tertiary": {
-      "value": "#f2f2f7",
-      "type": "color"
-    },
-    "Primary - Dark Elevated": {
-      "value": "#1c1c1e",
-      "type": "color"
-    },
-    "Secondary - Dark Elevated": {
-      "value": "#2c2c2e",
-      "type": "color"
-    },
-    "Tertiary - Dark Elevated": {
-      "value": "#3a3a3c",
-      "type": "color"
-    },
-    "Primary - Dark Base": {
       "value": "#000000",
       "type": "color"
     },
-    "Secondary - Dark Base": {
+    "Secondary": {
       "value": "#1c1c1e",
       "type": "color"
     },
-    "Tertiary - Dark Base": {
+    "Tertiary": {
       "value": "#2c2c2e",
       "type": "color"
     }
   },
   "Fills": {
     "Primary": {
-      "value": "#78788033",
-      "type": "color"
-    },
-    "Secondary": {
-      "value": "#78788029",
-      "type": "color"
-    },
-    "Tertiary": {
-      "value": "#7676801f",
-      "type": "color"
-    },
-    "Quaternary": {
-      "value": "#74748014",
-      "type": "color"
-    },
-    "Primary - Dark": {
       "value": "#7878805c",
       "type": "color"
     },
-    "Secondary - Dark": {
+    "Secondary": {
       "value": "#78788052",
       "type": "color"
     },
-    "Tertiary - Dark": {
+    "Tertiary": {
       "value": "#7676803d",
       "type": "color"
     },
-    "Quaternary - Dark": {
+    "Quaternary": {
       "value": "#7474802e",
       "type": "color"
     }
   },
   "Separators": {
     "Opaque": {
-      "value": "#c6c6c8",
-      "type": "color"
-    },
-    "Non-opaque": {
-      "value": "#3c3c435c",
-      "type": "color"
-    },
-    "Opaque - Dark": {
       "value": "#38383a",
       "type": "color"
     },
-    "Non-opaque - Dark": {
+    "Non-opaque": {
       "value": "#545458a6",
       "type": "color"
     }
   },
   "Materials": {
     "Chrome": {
-      "value": "#ffffffbf",
-      "type": "color"
-    },
-    "Chrome - Dark": {
       "value": "#000000bf",
       "type": "color"
     },
