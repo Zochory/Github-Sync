@@ -2,6 +2,9 @@
   "tokenSetOrder": [
     "Light",
     "Dark",
-    "Typographt"
+    "Typographt",
+    "Colors",
+    "Primitive",
+    "base"
   ]
 }
